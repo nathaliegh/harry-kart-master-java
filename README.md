@@ -119,7 +119,3 @@ The output must be a json document of this form:
    ]
 }
 ```
-
-The application we provide has two rest endpoints accepting XML and returning JSON (http://localhost:8080/java/api/play and http://localhost:8080/kotlin/api/play), you can use any of them as entry point.
-
-When you are done, zip the project (without the target folder) and send it back to us. You can leave the .git folder if you want.
